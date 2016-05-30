@@ -28,17 +28,26 @@ module plate1() {
         feet();
 }
 
+module triangle_with_logo() {
+    difference(){
+        triangle();
+        translate([30, 30, 13])
+            linear_extrude(3)
+                scale(0.30) labomedia_logo();
+    }
+}
+
 module plate2() {
     // vertical plate
     translate([parts_margin, (parts_margin * 2) + feet_height + sheet_thickness, 0]) {
         vertical_plate();
         // triangles
         translate([vertical_plate_borders[3] + triangle_margin[3], triangle_margin[2], 0])
-            triangle();
+            triangle_with_logo();
         // triangles
         rotate([0, 0, 180])
             translate([-vertical_plate_width + vertical_plate_borders[1] + triangle_margin[3], -_triangle_height - triangle_margin[2] - triangle_connectors_size[0], 0])
-                triangle();
+                triangle_with_logo();
     }
     // feet
     translate([parts_margin, parts_margin, 0]) 
@@ -97,4 +106,10 @@ if (output_mode == 4) {
         rotate([90, 0, 90])
             triangle();
     }
+}
+
+
+// Labomedia logo
+module labomedia_logo() {
+    import("parts/logo-labomedia.dxf");
 }

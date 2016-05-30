@@ -86,8 +86,7 @@ module triangle_connectors_holes() {
 
 // iTopie logo
 module logo() {
-    translate([vertical_plate_width / 2, vertical_plate_height - (vertical_plate_borders[0] / 2), 0])
-        import(dxf_logo);
+    translate([vertical_plate_width / 2, vertical_plate_height - (vertical_plate_borders[0] / 2), 0]) import(dxf_logo);
 }
 
 // holes
@@ -101,7 +100,7 @@ module vertical_plate_holes() {
 // pockets
 module vertical_plate_pockets() {
     color(pockets_color) 
-        if (logo_depth != undef) logo();
+        if (logo_depth != undef) logo(); 
 }
 
 // vertical plate 2D
