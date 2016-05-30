@@ -37,7 +37,7 @@ output_mode = 0;
 output_type = 0;
 
 // parts margin (mode : 0-3)
-parts_margin = 10;
+parts_margin = 5;
 
 // ---------------------------------------------------------------- //
 // drawing settings
