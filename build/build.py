@@ -39,7 +39,7 @@ mainScadFile = '../scad/main.scad';
 
 # path to the OpenSCAD binary
 #openscadPath = 'C:/Program Files/OpenSCAD/openscad.exe';
-openscadPath = '/usr/bin/openscad';
+openscadPath = '/usr/local/bin/openscad';
 
 # -----------------------------------------------------------------------------
 
