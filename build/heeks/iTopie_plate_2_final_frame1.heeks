@@ -80,7 +80,7 @@
                 <Tags />
             </Profile>
             <Profile sketch="10" active="1" tool_number="1" pattern="0" surface="0" title_from_id="1" id="2">
-                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="2" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
+                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="1" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
                 <depthop clear="5" down="3" userdepths="" startdepth="0" depth="-17" r="2" />
                 <speedop hfeed="300" vfeed="100" spin="7000" />
                 <Tags />
@@ -92,7 +92,7 @@
                 <Tags />
             </Profile>
             <Profile sketch="14" active="1" tool_number="1" pattern="0" surface="0" title_from_id="1" id="4">
-                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="2" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
+                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="1" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
                 <depthop clear="5" down="3" userdepths="" startdepth="0" depth="-17" r="2" />
                 <speedop hfeed="300" vfeed="100" spin="7000" />
                 <Tags />
@@ -110,7 +110,7 @@
                 <Tags />
             </Profile>
             <Profile sketch="15" active="1" tool_number="1" pattern="0" surface="0" title_from_id="1" id="7">
-                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="2" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
+                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="1" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
                 <depthop clear="5" down="3" userdepths="" startdepth="0" depth="-17" r="2" />
                 <speedop hfeed="300" vfeed="100" spin="7000" />
                 <Tags />
@@ -122,7 +122,7 @@
                 <Tags />
             </Profile>
             <Profile sketch="11" active="1" tool_number="1" pattern="0" surface="0" title_from_id="1" id="9">
-                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="2" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
+                <params side="-1" cut_mode="0" auto_roll_on="1" auto_roll_off="1" roll_radius="1" start_given="0" end_given="0" sort_sketches="1" extend_at_start="0" extend_at_end="0" lead_in_line_len="0" lead_out_line_len="0" offset_extra="0" do_finishing_pass="0" only_finishing_pass="0" finishing_feed_rate="100" finish_cut_mode="0" finishing_step_down="1" />
                 <depthop clear="5" down="3" userdepths="" startdepth="0" depth="-17" r="2" />
                 <speedop hfeed="300" vfeed="100" spin="7000" />
                 <Tags />
