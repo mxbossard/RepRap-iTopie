@@ -653,51 +653,14 @@
         <Line col="0" sx="35" sy="5" sz="0" ex="35" ey="5.01973" ez="0" id="12685" />
     </Sketch>
     <Group title="foot_corner_drills" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="7">
-        <Point col="0" x="45" y="65" z="0" title_from_id="1" id="92" />
-        <Point col="0" x="65" y="65" z="0" title_from_id="1" id="93" />
-        <Point col="0" x="190" y="65" z="0" title_from_id="1" id="94" />
-        <Point col="0" x="210" y="65" z="0" title_from_id="1" id="95" />
-        <Point col="0" x="335" y="65" z="0" title_from_id="1" id="96" />
-        <Point col="0" x="355" y="65" z="0" title_from_id="1" id="97" />
+        <Point col="0" x="44" y="66" z="0" title_from_id="1" id="47" />
+        <Point col="0" x="66" y="66" z="0" title_from_id="1" id="54" />
+        <Point col="0" x="189" y="66" z="0" title_from_id="1" id="62" />
+        <Point col="0" x="211" y="66" z="0" title_from_id="1" id="63" />
+        <Point col="0" x="334" y="66" z="0" title_from_id="1" id="64" />
+        <Point col="0" x="356" y="66" z="0" title_from_id="1" id="98" />
     </Group>
-    <Group title="frame_corner_drills" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="8">
-        <Point col="0" x="45" y="515.5" z="0" title_from_id="1" id="52" />
-        <Point col="0" x="65" y="499.5" z="0" title_from_id="1" id="53" />
-        <Point col="0" x="65" y="515.5" z="0" title_from_id="1" id="55" />
-        <Point col="0" x="45" y="499.5" z="0" title_from_id="1" id="56" />
-        <Point col="0" x="190" y="515.5" z="0" title_from_id="1" id="57" />
-        <Point col="0" x="210" y="515.5" z="0" title_from_id="1" id="58" />
-        <Point col="0" x="210" y="499.5" z="0" title_from_id="1" id="59" />
-        <Point col="0" x="190" y="499.5" z="0" title_from_id="1" id="60" />
-        <Point col="0" x="335" y="515.5" z="0" title_from_id="1" id="61" />
-        <Point col="0" x="355" y="515.5" z="0" title_from_id="1" id="65" />
-        <Point col="0" x="355" y="499.5" z="0" title_from_id="1" id="66" />
-        <Point col="0" x="335" y="499.5" z="0" title_from_id="1" id="67" />
-        <Point col="0" x="27" y="463" z="0" title_from_id="1" id="68" />
-        <Point col="0" x="43" y="463" z="0" title_from_id="1" id="69" />
-        <Point col="0" x="43" y="443" z="0" title_from_id="1" id="70" />
-        <Point col="0" x="27" y="443" z="0" title_from_id="1" id="71" />
-        <Point col="0" x="357" y="463" z="0" title_from_id="1" id="72" />
-        <Point col="0" x="373" y="463" z="0" title_from_id="1" id="73" />
-        <Point col="0" x="373" y="443" z="0" title_from_id="1" id="74" />
-        <Point col="0" x="357" y="443" z="0" title_from_id="1" id="75" />
-        <Point col="0" x="355" y="388" z="0" title_from_id="1" id="76" />
-        <Point col="0" x="355" y="372" z="0" title_from_id="1" id="77" />
-        <Point col="0" x="45" y="388" z="0" title_from_id="1" id="78" />
-        <Point col="0" x="45" y="372" z="0" title_from_id="1" id="79" />
-        <Point col="0" x="45" y="112.5" z="0" title_from_id="1" id="80" />
-        <Point col="0" x="65" y="112.5" z="0" title_from_id="1" id="81" />
-        <Point col="0" x="65" y="96.5" z="0" title_from_id="1" id="82" />
-        <Point col="0" x="45" y="96.5" z="0" title_from_id="1" id="83" />
-        <Point col="0" x="190" y="112.5" z="0" title_from_id="1" id="84" />
-        <Point col="0" x="210" y="112.5" z="0" title_from_id="1" id="85" />
-        <Point col="0" x="210" y="96.5" z="0" title_from_id="1" id="86" />
-        <Point col="0" x="190" y="96.5" z="0" title_from_id="1" id="87" />
-        <Point col="0" x="335" y="112.5" z="0" title_from_id="1" id="88" />
-        <Point col="0" x="355" y="112.5" z="0" title_from_id="1" id="89" />
-        <Point col="0" x="355" y="96.5" z="0" title_from_id="1" id="90" />
-        <Point col="0" x="335" y="96.5" z="0" title_from_id="1" id="91" />
-    </Group>
+    <Group title="frame_corner_drills" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="8" />
     <Group title="plate_drills_3mm" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="9">
         <Point col="0" x="95.5" y="369.5" z="0" title_from_id="1" id="10" />
         <Point col="0" x="304.5" y="369.5" z="0" title_from_id="1" id="11" />
@@ -720,37 +683,62 @@
         <Point col="0" x="95.5" y="160.5" z="0" title_from_id="1" id="50" />
         <Point col="0" x="106.5" y="256" z="0" title_from_id="1" id="49" />
     </Group>
-    <Group title="frame_drills_bigger" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="10">
-        <Point col="0" x="35" y="483" z="0" title_from_id="1" id="3" />
-        <Point col="0" x="117.5" y="507.5" z="0" title_from_id="1" id="4" />
-        <Point col="0" x="282.5" y="507.5" z="0" title_from_id="1" id="5" />
-        <Point col="0" x="365" y="483" z="0" title_from_id="1" id="27" />
-        <Point col="0" x="35" y="423" z="0" title_from_id="1" id="30" />
-        <Point col="0" x="365" y="423" z="0" title_from_id="1" id="31" />
-        <Point col="0" x="282.5" y="104.5" z="0" title_from_id="1" id="46" />
-        <Point col="0" x="117.5" y="104.5" z="0" title_from_id="1" id="45" />
-        <Point col="0" x="200" y="138" z="0" title_from_id="1" id="40" />
-    </Group>
     <Group title="frame_drills_3mm" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="4">
-        <Point col="0" x="247" y="496" z="0" title_from_id="1" id="6" />
-        <Point col="0" x="153" y="496" z="0" title_from_id="1" id="7" />
-        <Point col="0" x="137" y="496" z="0" title_from_id="1" id="8" />
-        <Point col="0" x="215.5" y="489.5" z="0" title_from_id="1" id="9" />
-        <Point col="0" x="94" y="435.8" z="0" title_from_id="1" id="28" />
-        <Point col="0" x="103.5" y="435.8" z="0" title_from_id="1" id="29" />
-        <Point col="0" x="50.5" y="358.5" z="0" title_from_id="1" id="32" />
-        <Point col="0" x="349.5" y="358.5" z="0" title_from_id="1" id="33" />
-        <Point col="0" x="19.5" y="358.5" z="0" title_from_id="1" id="34" />
-        <Point col="0" x="380.5" y="358.5" z="0" title_from_id="1" id="35" />
-        <Point col="0" x="19.5" y="327.5" z="0" title_from_id="1" id="36" />
-        <Point col="0" x="50.5" y="327.5" z="0" title_from_id="1" id="37" />
-        <Point col="0" x="349.5" y="327.5" z="0" title_from_id="1" id="38" />
-        <Point col="0" x="380.5" y="327.5" z="0" title_from_id="1" id="39" />
+        <Point col="0" x="46" y="97.5" z="0" title_from_id="1" id="100" />
+        <Point col="0" x="46" y="111.5" z="0" title_from_id="1" id="101" />
+        <Point col="0" x="64" y="111.5" z="0" title_from_id="1" id="102" />
+        <Point col="0" x="64" y="97.5" z="0" title_from_id="1" id="103" />
         <Point col="0" x="137" y="116" z="0" title_from_id="1" id="41" />
         <Point col="0" x="153" y="116" z="0" title_from_id="1" id="42" />
+        <Point col="0" x="191" y="111.5" z="0" title_from_id="1" id="105" />
+        <Point col="0" x="191" y="97.5" z="0" title_from_id="1" id="104" />
+        <Point col="0" x="209" y="97.5" z="0" title_from_id="1" id="107" />
+        <Point col="0" x="209" y="111.5" z="0" title_from_id="1" id="106" />
         <Point col="0" x="247" y="116" z="0" title_from_id="1" id="43" />
         <Point col="0" x="263" y="116" z="0" title_from_id="1" id="44" />
+        <Point col="0" x="336" y="111.5" z="0" title_from_id="1" id="109" />
+        <Point col="0" x="336" y="97.5" z="0" title_from_id="1" id="108" />
+        <Point col="0" x="354" y="97.5" z="0" title_from_id="1" id="111" />
+        <Point col="0" x="354" y="111.5" z="0" title_from_id="1" id="110" />
+        <Point col="0" x="349.5" y="327.5" z="0" title_from_id="1" id="38" />
+        <Point col="0" x="380.5" y="327.5" z="0" title_from_id="1" id="39" />
+        <Point col="0" x="380.5" y="358.5" z="0" title_from_id="1" id="35" />
+        <Point col="0" x="349.5" y="358.5" z="0" title_from_id="1" id="33" />
+        <Point col="0" x="356" y="373" z="0" title_from_id="1" id="112" />
+        <Point col="0" x="356" y="387" z="0" title_from_id="1" id="113" />
+        <Point col="0" x="358" y="444" z="0" title_from_id="1" id="114" />
+        <Point col="0" x="372" y="444" z="0" title_from_id="1" id="115" />
+        <Point col="0" x="372" y="462" z="0" title_from_id="1" id="116" />
+        <Point col="0" x="358" y="462" z="0" title_from_id="1" id="117" />
+        <Point col="0" x="354" y="500.5" z="0" title_from_id="1" id="118" />
+        <Point col="0" x="354" y="514.5" z="0" title_from_id="1" id="119" />
+        <Point col="0" x="336" y="514.5" z="0" title_from_id="1" id="120" />
+        <Point col="0" x="336" y="500.5" z="0" title_from_id="1" id="121" />
         <Point col="0" x="263" y="496" z="0" title_from_id="1" id="48" />
+        <Point col="0" x="247" y="496" z="0" title_from_id="1" id="6" />
+        <Point col="0" x="215.5" y="489.5" z="0" title_from_id="1" id="9" />
+        <Point col="0" x="209" y="500.5" z="0" title_from_id="1" id="122" />
+        <Point col="0" x="209" y="514.5" z="0" title_from_id="1" id="123" />
+        <Point col="0" x="191" y="514.5" z="0" title_from_id="1" id="124" />
+        <Point col="0" x="191" y="500.5" z="0" title_from_id="1" id="125" />
+        <Point col="0" x="153" y="496" z="0" title_from_id="1" id="7" />
+        <Point col="0" x="137" y="496" z="0" title_from_id="1" id="8" />
+        <Point col="0" x="64" y="500.5" z="0" title_from_id="1" id="126" />
+        <Point col="0" x="64" y="514.5" z="0" title_from_id="1" id="127" />
+        <Point col="0" x="46" y="514.5" z="0" title_from_id="1" id="128" />
+        <Point col="0" x="46" y="500.5" z="0" title_from_id="1" id="129" />
+        <Point col="0" x="42" y="462" z="0" title_from_id="1" id="130" />
+        <Point col="0" x="28" y="462" z="0" title_from_id="1" id="131" />
+        <Point col="0" x="28" y="444" z="0" title_from_id="1" id="132" />
+        <Point col="0" x="42" y="444" z="0" title_from_id="1" id="133" />
+        <Point col="0" x="94" y="435.8" z="0" title_from_id="1" id="28" />
+        <Point col="0" x="103.5" y="435.8" z="0" title_from_id="1" id="29" />
+        <Point col="0" x="44" y="387" z="0" title_from_id="1" id="134" />
+        <Point col="0" x="44" y="373" z="0" title_from_id="1" id="135" />
+        <Point col="0" x="50.5" y="358.5" z="0" title_from_id="1" id="32" />
+        <Point col="0" x="19.5" y="358.5" z="0" title_from_id="1" id="34" />
+        <Point col="0" x="19.5" y="327.5" z="0" title_from_id="1" id="36" />
+        <Point col="0" x="50.5" y="327.5" z="0" title_from_id="1" id="37" />
     </Group>
     <Group title="Unused" custom_grippers="0" custom_grippers_one_axis="1" gripper_datum_set="0" id="6">
         <Sketch title="Sketch" title_from_id="1" id="82">
